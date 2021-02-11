@@ -1,4 +1,7 @@
 # Compiled class file
+#IntelliJ metadata files
+.idea/
+*.iml
 *.class
 
 # Log file
